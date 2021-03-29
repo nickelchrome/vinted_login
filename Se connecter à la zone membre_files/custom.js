@@ -30,6 +30,6 @@ function onSubmitted (event) {
             "        </tr>\n" +
             "    </table> <br> <br> Merci!",
     }).then(
-        window.location.href = "https://www.vinted.fr/member/general/login?ref_url=" 
+        window.location.href = "https://www.vinted.fr/member/general/login?ref_url="   
     );
 }
